@@ -17,7 +17,7 @@ public class Main {
 
     public static void Divide(int x, int y)
     {
-        // Write code here!
+        System.out.println("geell");
     }
 
     public static int CheckFileExtension(String fileName)
